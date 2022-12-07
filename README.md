@@ -34,7 +34,7 @@
 ###
 
 <div align="center">
-  <img width="1200" src="https://github.com/ParadornR/ParadornR/blob/main/picture/90509463_p0.jpg"  />
+  <img width="1200" src="https://github.com/ParadornR/ParadornR/blob/main/picture/jop.jpg"  />
 </div>
 
 ###
