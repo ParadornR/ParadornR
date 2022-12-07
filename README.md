@@ -36,7 +36,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="500" src="https://github.com/ParadornR/ParadornR/blob/main/picture/90509463_p0.jpg"  />
 </div>
 
 ###
