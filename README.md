@@ -11,10 +11,8 @@
 ###
 
 <p align="left">
-  ✨ Creating bugs since ...<br>
-  📚 I'm currently learning ...<br>
-  🎯 Goals: ...<br>
-  🎲 Fun fact: ...
+  📚 I'm currently learning : Blender, OOP, Java, <br>
+  🎯 Goals: 3D maker <br>
 </p>
 
 ###
@@ -36,7 +34,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="https://github.com/ParadornR/ParadornR/blob/main/picture/90509463_p0.jpg"  />
+  <img width="1800" src="https://github.com/ParadornR/ParadornR/blob/main/picture/90509463_p0.jpg"  />
 </div>
 
 ###
