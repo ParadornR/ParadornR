@@ -11,10 +11,15 @@
 ###
 
 <p align="left">
+  
   📚 I'm currently learning : Blender, OOP, Java, <br>
   🎯 Goals: 3D maker <br>
 </p>
 
+<h2 align="left">Contact</h2>
+  Discord : ヒロト・クガ #2483 <br>
+  Twitter : <a href="https://twitter.com/PhradrRin">IMX @Paradorn_R</a>
+  
 ###
 
 <h2 align="left">I code with</h2>
