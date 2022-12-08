@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">! My name Paradorn Rinrit and I'm a student, from RMUTL </p>
+<p align="left"> My name Paradorn Rinrit and I'm a student, from RMUTL </p>
 
 ###
 
