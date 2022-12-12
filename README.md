@@ -13,7 +13,7 @@
 <p align="left">
   
   📚 I'm currently learning : Blender, OOP, Java, <br>
-  🎯 Goals: 3D maker, Rrogramer <br>
+  🎯 Goals: 3D maker, Programer <br>
 </p>
 
 <h2 align="left">Contact</h2>
