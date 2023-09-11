@@ -18,7 +18,7 @@
 
 <h2 align="left">Contact</h2>
   Discord : ヒロト・クガ #2483 <br>
-  Twitter : <a href="[https://twitter.com/PhradrRin](https://twitter.com/Paradorn_R)">IMX @Paradorn_R</a>
+  Twitter : <a href="https://twitter.com/Paradorn_R">IMX @Paradorn_R</a>
   
 ###
 
