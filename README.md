@@ -12,7 +12,7 @@
 
 <p align="left">
   
-  📚 I'm currently learning : HTML, CSS, JavaScript, Blender, OOP, Java, <br>
+  📚 I'm currently learning : HTML, CSS, JavaScript, Blender, OOP, Java <br>
   🎯 Goals: Programer <br>
 </p>
 
