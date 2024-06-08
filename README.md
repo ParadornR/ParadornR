@@ -13,7 +13,7 @@
 <p align="left">
   
   📚 I'm currently learning : HTML, CSS, JavaScript, Blender, OOP, Java, Flutter, Dart <br>
-  🎯 Goals: Programer <br>
+
 </p>
 
 
