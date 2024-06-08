@@ -21,10 +21,4 @@
   Twitter : <a href="https://twitter.com/Paradorn_R">IMX @Paradorn_R</a>
   
 
-###
 
-<div align="center">
-  <img width="1200" src="https://github.com/ParadornR/ParadornR/blob/main/picture/jop.jpg"  />
-</div>
-
-###
