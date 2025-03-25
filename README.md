@@ -12,7 +12,7 @@
 
 <p align="left">
   
-  📚 I'm currently learning : HTML, CSS, JavaScript, Blender, OOP, Java, Flutter, Dart <br>
+  📚 I'm currently learning : OOP, Java, Flutter, Dart <br>
 
 </p>
 
