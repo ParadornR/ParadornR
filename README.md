@@ -13,7 +13,7 @@
 <p align="left">
   
   📚 I'm currently learning : OOP, Java, Flutter, Dart <br>
-
+  https://github.com/ParadornR/ParadornR/blob/main/picture/WindowsLogoShadow.png
 </p>
 
 
