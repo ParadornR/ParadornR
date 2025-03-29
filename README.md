@@ -13,7 +13,9 @@
 <p align="left">
   
   📚 I'm currently learning : OOP, Java, Flutter, Dart <br>
-  https://github.com/ParadornR/ParadornR/blob/main/picture/WindowsLogoShadow.png
+  ![รูปตัวอย่าง](https://github.com/ParadornR/ParadornR/blob/main/picture/WindowsLogoShadow.png)
+
+
 </p>
 
 
