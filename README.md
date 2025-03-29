@@ -13,7 +13,6 @@
 <p align="left">
   
   📚 I'm currently learning : OOP, Java, Flutter, Dart <br>
-  <img src="https://github.com/ParadornR/ParadornR/blob/main/picture/VisualStudioCodeRound.png" style="width: 150px; height: auto;" />
   <img src="https://github.com/ParadornR/ParadornR/blob/main/picture/FlutterTransparent.png" style="width: 150px; height: auto;" />
 
 
