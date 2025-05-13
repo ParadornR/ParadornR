@@ -30,8 +30,8 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paradonrinrit&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradonrinrit&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ParadornR&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParadornR&layout=compact&theme=tokyonight" />
 </p>
 
 ---
