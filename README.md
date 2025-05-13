@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **Flutter Mobile Applications**
 - 🌱 I’m currently learning **Testing (Unit, Widget, Integration)**
 - 💬 Ask me about **Flutter, Dart, Firebase, REST API**
-- 📫 How to reach me: `mix.paradon.dev@gmail.com`
+- 📫 How to reach me: `paradorn.rinrit.m@gmail.com`
 - ⚡ Fun fact: I'm also passionate about UI/UX Design 🎨
 
 ---
@@ -43,8 +43,7 @@
 
 ### 📫 Contact Me
 <p>
-  <a href="mailto:mix.paradon.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:paradorn.rinrit.m@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 
