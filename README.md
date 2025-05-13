@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Flutter Mobile Developer from Thailand 🇹🇭</h3>
 
 <p align="center">
-  <img src="https://github.com/ParadornR/ParadornR/blob/main/picture/FlutterTransparent.png" style="width: 200px; height: auto;" />
+  <img src="https://github.com/ParadornR/ParadornR/blob/main/picture/FlutterTransparent.png" style="width: 300px; height: auto;" />
 </p>
 
 ---
